@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jimmy Radford
-- 👀 I’m interested in using Python for data science projects
+- 👀 I’m interested in using Python for data analysis, engineering and science projects
 - 📫 You can reach me via my LinkedIn profile (https://www.linkedin.com/in/jimmy-radford/)
 
 <!---
